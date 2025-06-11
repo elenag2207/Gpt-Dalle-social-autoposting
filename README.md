@@ -41,22 +41,6 @@
 └── .gitignore
 ```
 
-## Быстрый старт
-
-1. **Клонируйте** репозиторий:
-   ```bash
-   git clone https://github.com/yourusername/ai-social-auto-posting.git
-   cd ai-social-auto-posting
-   ```
-2. **Импортируйте** сценарий в Make:
-   - Войдите в Make → **Scenarios → Create new → Import Blueprint**  
-   - Загрузите `make_scenario.json`
-3. **Настройте** переменные и секреты:
-   - Google Sheets API ключи  
-   - OpenAI API key  
-   - VK / Telegram / Facebook токены  
-4. **Запустите** сценарий вручную или включите расписание
-
 ## Планы на будущее
 
 - Добавить LinkedIn и X (Twitter)  
