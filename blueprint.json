@@ -1076,7 +1076,7 @@
                                     },
                                     {
                                         "name": "group_id",
-                                        "value": "59139248"
+                                        "value": "{{VK_GROUP_ID}}"
                                     },
                                     {
                                         "name": "v",
@@ -1746,7 +1746,7 @@
                                     },
                                     {
                                         "name": "group_id",
-                                        "value": "59139248"
+                                        "value": "{{VK_GROUP_ID}}"
                                     }
                                 ],
                                 "bodyType": "",
@@ -1982,7 +1982,7 @@
                                     },
                                     {
                                         "name": "owner_id",
-                                        "value": "-59139248"
+                                        "value": "{{VK_OWNER_ID}}"
                                     },
                                     {
                                         "name": "from_group",
