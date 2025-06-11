@@ -1072,7 +1072,7 @@
                                 "qs": [
                                     {
                                         "name": "access_token",
-                                        "value": "vk1.a.OqMkmDNvii1mn_w4ucAD8zXJ3NfIM1cYgl-an7mM7klieA01mubrwAHao9508HlxKVJtR5frUftTeMKTGFclw6PAaj3N2zFvaMYhclXDZTIrhMapbV8XgtrGalYU0-PLnhNxgt2SFLUmy5AKSpxRAq1s95xBsxlrw-6kZOqv7xabcwufXUez740fyfenrf7ZPZy6tG9PQO-LfMFVo43RtA"
+                                        "value": "{{VK_ACCESS_TOKEN}}"
                                     },
                                     {
                                         "name": "group_id",
@@ -1726,7 +1726,7 @@
                                 "qs": [
                                     {
                                         "name": "access_token",
-                                        "value": "vk1.a.OqMkmDNvii1mn_w4ucAD8zXJ3NfIM1cYgl-an7mM7klieA01mubrwAHao9508HlxKVJtR5frUftTeMKTGFclw6PAaj3N2zFvaMYhclXDZTIrhMapbV8XgtrGalYU0-PLnhNxgt2SFLUmy5AKSpxRAq1s95xBsxlrw-6kZOqv7xabcwufXUez740fyfenrf7ZPZy6tG9PQO-LfMFVo43RtA"
+                                        "value": "{{VK_ACCESS_TOKEN}}"
                                     },
                                     {
                                         "name": "v",
@@ -1974,7 +1974,7 @@
                                 "qs": [
                                     {
                                         "name": "access_token",
-                                        "value": "vk1.a.OqMkmDNvii1mn_w4ucAD8zXJ3NfIM1cYgl-an7mM7klieA01mubrwAHao9508HlxKVJtR5frUftTeMKTGFclw6PAaj3N2zFvaMYhclXDZTIrhMapbV8XgtrGalYU0-PLnhNxgt2SFLUmy5AKSpxRAq1s95xBsxlrw-6kZOqv7xabcwufXUez740fyfenrf7ZPZy6tG9PQO-LfMFVo43RtA"
+                                        "value": "{{VK_ACCESS_TOKEN}}"
                                     },
                                     {
                                         "name": "v",
