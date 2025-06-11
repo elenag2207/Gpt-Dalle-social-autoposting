@@ -1,0 +1,14 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+*~
+*.bak
+.vscode/
+*.code-workspace
+*.log
+*.tmp
+*.swp
+~$*.docx
+blueprint.json.bak
