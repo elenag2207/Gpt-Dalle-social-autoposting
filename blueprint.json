@@ -11,7 +11,7 @@
                 "limit": 1,
                 "sheetId": "Лист1",
                 "__IMTCONN__": 8115392,
-                "spreadsheetId": "/1qI-LuXMj6dHfevN4zIoDrG4TTmnjlJqU4IDF2hxJ_AQ",
+                "spreadsheetId": "/{{SPREADSHEET_ID}}",
                 "tableFirstRow": "A1:A1",
                 "includesHeaders": true,
                 "valueRenderOption": "FORMATTED_VALUE",
@@ -43,7 +43,7 @@
                         },
                         "spreadsheetId": {
                             "path": [
-                                "1qI-LuXMj6dHfevN4zIoDrG4TTmnjlJqU4IDF2hxJ_AQ"
+                                "{{SPREADSHEET_ID}}"
                             ]
                         },
                         "includesHeaders": {
