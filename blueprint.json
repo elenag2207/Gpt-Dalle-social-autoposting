@@ -39,7 +39,7 @@
                                 "scoped": "true",
                                 "connection": "google"
                             },
-                            "label": "My Google connection (elena220781@gmail.com)"
+                            "label": "My Google connection ({{GOOGLE_ACCOUNT_EMAIL}})"
                         },
                         "spreadsheetId": {
                             "path": [
